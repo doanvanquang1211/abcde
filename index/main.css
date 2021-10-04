@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ body{
+     text-align: center;
+ }
+.img {
+    text-align: center;
+    margin-bottom: 25px;
+}
+   
+    .type h2{margin-bottom: 20px;
+        font-weight: normal;
+        font-size: 40px;
+
+    }
+    .type h2 strong { color: rgb(97, 97, 228);
+        font-weight: bold;
+
+    }
+.list { 
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+.menu li{ display: inline;
+    margin: 0 12px;
+}
+.menu li a {
+    background-color: black;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+  min-width: 150px;
+    color: white;
+}
+.menu li a:hover{
+    background-color: blue;
+}
+.menu .list1{
+    text-decoration-line: none;
+
+}
+ 
+
+ 
+
+
